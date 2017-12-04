@@ -47,7 +47,7 @@
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
             <meta-data
             android:name="BaiduMobAd_STAT_ID"
-            android:value="$APP_KEY" />
+            android:value="9c86821e1b" />
             <meta-data
             android:name="BaiduMobAd_CHANNEL"
             android:value="test channel" />
