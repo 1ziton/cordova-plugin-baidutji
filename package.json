@@ -1,25 +1,31 @@
 {
   "name": "cordova-plugin-baidutji",
   "version": "0.0.1",
-  "description": "Cordova Plugin For Baidu Tongji",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Cordova Plugin For Baidu Mobile Analysis",
   "cordova": {
     "id": "cordova-plugin-baidutji",
     "platforms": [
-      "android",
-      "ios"
+      "ios",
+      "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/1ziton/cordova-plugin-baidutji.git"
+    "url": "git+https://github.com/1ziton/cordova-plugin-baidutji.git"
   },
   "keywords": [
+    "cordova",
+    "Baidu Mobile Analysis",
+    "BaiduMobStat",
     "ecosystem:cordova",
-    "cordova-ios"
+    "cordova-ios",
+    "cordova-android"
   ],
-  "author": ["yilei","tangjijun","giscafer"],
-  "license": "MIT"
+  "author": "tangjijun, giscafer",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/BaiduMobileAnalysis/cordova-plugin/issues"
+  },
+  "homepage": "https://github.com/BaiduMobileAnalysis/cordova-plugin#readme"
 }
+
