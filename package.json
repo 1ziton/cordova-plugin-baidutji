@@ -2,6 +2,9 @@
   "name": "cordova-plugin-baidutji",
   "version": "0.0.1",
   "description": "Cordova Plugin For Baidu Tongji",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "cordova": {
     "id": "cordova-plugin-baidutji",
     "platforms": [
