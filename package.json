@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-baidutji",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "Cordova Plugin For Baidu Mobile Analysis",
   "cordova": {
     "id": "cordova-plugin-baidutji",
