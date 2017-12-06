@@ -16,7 +16,7 @@
   	
   	Android:  
   	```
-  	cordova plugin add cordova-plugin-baidutji --variable APP_KEY=""
+  	cordova plugin add cordova-plugin-baidutji --variable APP_KEY="9c86821e1b"
   	```
   	
 4. build and debug
