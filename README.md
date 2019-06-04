@@ -1,5 +1,7 @@
 # 百度移动统计Cordova插件
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/1ziton/cordova-plugin-baidutji.svg)](https://greenkeeper.io/)
+
 ## How to debug:
 1. clone this project
 2. remove the old plugin from the project
